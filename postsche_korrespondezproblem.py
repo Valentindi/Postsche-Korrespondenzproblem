@@ -2,10 +2,10 @@ import copy
 import functools
 import random
 
-min_elements = 66
+min_elements = 66 #minimum of iterations the Alg. have to run!
 
-xs = ["001", "01", "01", "10"]
-ys = ["0", "011", "101", "001"]
+xs = ["001", "01", "01", "10"] #first elements of pairs
+ys = ["0", "011", "101", "001"] #second elements of pairs
 
 used_xs = [False, False, False, False]
 used_ys = [False, False, False, False]
