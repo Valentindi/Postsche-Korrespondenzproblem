@@ -5,9 +5,11 @@ More: https://en.wikipedia.org/wiki/Post_correspondence_problem
 poorly documented, I know.
 
 ## Run
-Just run ```
+Just run 
+```
 python3 postsche_korrespondezproblem.py
-``` ;)
+```
+;)
 
 
 
