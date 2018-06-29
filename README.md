@@ -1,6 +1,6 @@
 # Postsche-Korrespondenzproblem
-Python Implemention for the Post correspondence problem
-see https://en.wikipedia.org/wiki/Post_correspondence_problem
+Python Implemention for the Post correspondence problem.
+More: https://en.wikipedia.org/wiki/Post_correspondence_problem
 
 poorly documented, I know.
 
